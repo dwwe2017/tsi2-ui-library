@@ -1,4 +1,17 @@
 {
-  "main.js": "static/js/main.99e745aa.js",
-  "main.js.map": "static/js/main.99e745aa.js.map"
+  "main.css": "static/css/main.70a6784b.css",
+  "main.css.map": "static/css/main.70a6784b.css.map",
+  "main.js": "static/js/main.5272a836.js",
+  "main.js.map": "static/js/main.5272a836.js.map",
+  "static\\media\\fontawesome-webfont.eot": "static/media/fontawesome-webfont.5ae23ad2.eot",
+  "static\\media\\fontawesome-webfont.svg": "static/media/fontawesome-webfont.e19a7e61.svg",
+  "static\\media\\fontawesome-webfont.ttf?v=3.2.1": "static/media/fontawesome-webfont.8cca2f02.ttf",
+  "static\\media\\fontawesome-webfont.woff?v=3.2.1": "static/media/fontawesome-webfont.b683029b.woff",
+  "static\\media\\glyphicons-halflings-regular.eot": "static/media/glyphicons-halflings-regular.d41d8cd9.eot",
+  "static\\media\\glyphicons-halflings-regular.svg": "static/media/glyphicons-halflings-regular.a0f6fe8c.svg",
+  "static\\media\\glyphicons-halflings-regular.ttf": "static/media/glyphicons-halflings-regular.d41d8cd9.ttf",
+  "static\\media\\glyphicons-halflings-regular.woff": "static/media/glyphicons-halflings-regular.68ed1dac.woff",
+  "static\\media\\icos-dark.png": "static/media/icos-dark.d57df0a8.png",
+  "static\\media\\icos-white.png": "static/media/icos-white.2c3308d1.png",
+  "static\\media\\sprite.png": "static/media/sprite.42470447.png"
 }
